@@ -1,0 +1,505 @@
+Norman Ave and Leonard St NY:11222
+Central Park West and W 68 St NY:10023
+Graham Ave and Grand St NY:11211
+Park Ave and St Edwards St NY:11205
+S Portland Ave and Hanson Pl NY:11217
+Devoe St and Leonard St NY:11211
+E 27 St and 1 Ave NY:10016
+Vernon Blvd and 50 Ave NY:11101
+Lexington Ave and E 24 St NY:10010
+Lewis Ave and Kosciuszko St NY:11221
+1 Ave and E 15 St NY:10003
+Columbus Ave and W 72 St NY:10023
+W 22 St and 10 Ave NY:10011
+Great Jones St NY:10012
+21 St and 41 Ave NY:11101
+E 24 St and Park Ave S NY:10010
+McKibbin St and Manhattan Ave NY:11206
+E 84 St and 1 Ave NY:10028
+Pershing Square North NY:10168
+Yankee Ferry Terminal NY:10007
+KentAveandN7 St NY:11249
+NYCBS Depot - DEL NY:10007
+5 Ave and E 29 St NY:10016
+E 48 St and 3 Ave NY:10017
+Marcy Ave and Lafayette Ave NY:11216
+Wythe Ave and Metropolitan Ave NY:11249
+Norfolk St and Broome St NY:10002
+47 Ave and 31 St NY:11101
+Clinton St and Tillary St NY:11201
+S 5 Pl and S 4 St NY:11211
+Central Park West and W 85 St NY:10024
+Mobile 01 NY:10306
+W 33 St and 7 Ave NY:10120
+Johnson St and Gold St NY:11201
+N 8 St and Driggs Ave NY:11211
+Mercer St and Spring St NY:10012
+E 11 St and 2 Ave NY:10003
+Forsyth St and Canal St NY:10002
+S 4 St and Rodney St NY:11211
+W 37 St and 5 Ave NY:10018
+W 45 St and 8 Ave NY:10036
+Broadway and W 32 St NY:10001
+Graham Ave and Withers St NY:11211
+William St and Pine St NY:10005
+Forsyth St and Broome St NY:10002
+Henry St and Grand St NY:10002
+E 52 St and 2 Ave NY:10022
+21 St and Queens Plaza North NY:11101
+W 24 St and 7 Ave NY:10011
+Franklin St and Dupont St NY:11222
+Bus Slip and State St NY:10004
+Cadman Plaza E and Red Cross Pl NY:11201
+W 59 St and 10 Ave NY:10019
+Greenwich Ave and 8 Ave NY:10011
+Queens Plaza North and Crescent St NY:11101
+Cleveland Pl and Spring St NY:10012
+Lexington Ave and E 63 St NY:10065
+NYCBS Depot - FAR NY:10007
+Kent Ave and S 11 St NY:11249
+East End Ave and E 86 St NY:10028
+11 Ave and W 41 St NY:10036
+5 Ave and E 63 St NY:10065
+Suffolk St and Stanton St NY:10002
+Front St and Maiden Ln NY:10038
+W 22 St and 8 Ave NY:10011
+Pike St and E Broadway NY:10002
+E 16 St and Irving Pl NY:10003
+Broadway and W 24 St NY:10010
+NYCBS Depot - SSP NY:10007
+Harrison St and Hudson St NY:10013
+E 19 St and 3 Ave NY:10003
+Henry St and Atlantic Ave NY:11201
+48 Ave and 5 St NY:11109
+Jay St and Tech Pl NY:11201
+Fulton St and Rockwell Pl NY:11217
+E 67 St and Lexington Ave NY:10065
+Bialystoker Pl and Delancey St NY:10002
+Clinton St and Joralemon St NY:11201
+Washington Square E NY:10003
+E 31 St and 3 Ave NY:10016
+Clinton Ave and Flushing Ave NY:11205
+Madison St and Montgomery St NY:10002
+W 63 St and Broadway NY:10023
+E 16 St and 5 Ave NY:10011
+E 2 St and 2 Ave NY:10003
+Broadway and Roebling St NY:11211
+W 14 St and The High Line NY:12020
+Myrtle Ave and St Edwards St NY:11205
+E 33 St and 2 Ave NY:10016
+Greenwich St and Warren St NY:10007
+W 34 St and 11 Ave NY:10001
+W 70 St and Amsterdam Ave NY:10023
+Grand St and Greene St NY:10013
+Leonard St and Bayard St NY:11222
+Brooklyn Bridge Park - Pier 2 NY:11201
+Myrtle Ave and Marcy Ave NY:11206
+E 43 St and 2 Ave NY:10017
+Myrtle Ave and Lewis Ave NY:11206
+6 Ave and Broome St NY:10013
+Huron St and Franklin St NY:11222
+Humboldt St and Varet St NY:11206
+Columbia Heights and Cranberry St NY:11201
+N Henry St and Richardson St NY:11222
+Mercer St and Bleecker St NY:10012
+Greene Ave and Throop Ave NY:11221
+Broadway and Whipple St NY:11206
+Elizabeth St and Hester St NY:10013
+Grand Army Plaza and Central Park S NY:10019
+W 26 St and 10 Ave NY:10001
+Riverside Blvd and W 67 St NY:10069
+W 53 St and 10 Ave NY:10019
+3 Ave and E 62 St NY:10065
+Fulton St and William St NY:10038
+Barclay St and Church St NY:10007
+Broadway and W 58 St NY:10019
+Center Blvd and Borden Ave NY:11101
+N 15 St and Wythe Ave NY:11222
+Montrose Ave and Bushwick Ave NY:11206
+Water - Whitehall Plaza NY:10004
+Columbia St and Rivington St NY:10002
+Riverside Dr and W 82 St NY:10024
+Liberty St and Broadway NY:10006
+Adelphi St and Myrtle Ave NY:11205
+State St and Smith St NY:11201
+Lispenard St and Broadway NY:10013
+E 45 St and 3 Ave NY:10017
+West Thames St NY:10280
+E 5 St and Avenue C NY:10009
+Franklin Ave and Myrtle Ave NY:11205
+E 82 St and 2 Ave NY:10028
+W 67 St and Broadway NY:10023
+Centre St and Worth St NY:10013
+E 72 St and York Ave NY:10021
+E 39 St and 3 Ave NY:10016
+W 52 St and 11 Ave NY:10019
+Lafayette Ave and Fort Greene Pl NY:11217
+Howard St and Centre St NY:10013
+Hicks St and Montague St NY:11201
+Union Ave and N 12 St NY:11211
+11 Ave and W 27 St NY:10001
+E 58 St and 3 Ave NY:10022
+Putnam Ave and Throop Ave NY:11221
+E 51 St and Lexington Ave NY:10022
+Avenue D and E 8 St NY:10009
+E 33 St and 5 Ave NY:10001
+W Broadway and Spring St NY:10012
+Leonard St and Manhattan Ave NY:11222
+Grove St PATH NY:10014
+St Marks Pl and 2 Ave NY:10003
+Pearl St and Anchorage Pl NY:11201
+NYCBS Depot - STY NY:10007
+Clark St and Henry St NY:11201
+Berry St and N 8 St NY:11249
+E 55 St and 2 Ave NY:10022
+Front St and Gold St NY:11201
+1 Ave and E 30 St NY:10016
+W 20 St and 8 Ave NY:10011
+Lorimer St and Broadway NY:11206
+Kingston Ave and Herkimer St NY:11213
+Bond St and Schermerhorn St NY:11217
+LaGuardia Pl and W 3 St NY:10012
+McGuinness Blvd and Eagle St NY:11222
+Sullivan St and Washington Sq NY:10012
+DeKalb Ave and S Portland Ave NY:11201
+Scholes St and Manhattan Ave NY:11206
+W 52 St and 9 Ave NY:10019
+Sands St and Navy St NY:11201
+E 6 St and Avenue D NY:10009
+Murray St and West St NY:10007
+W 54 St and 9 Ave NY:10019
+S 4 St and Wythe Ave NY:11249
+E 85 St and York Ave NY:10028
+W 56 St and 6 Ave NY:10019
+Central Park West and W 76 St NY:10024
+Lafayette Ave and Classon Ave NY:11238
+Pulaski St and Marcus Garvey Blvd NY:11206
+Madison St and Clinton St NY:10002
+Greenpoint Ave and Manhattan Ave NY:11222
+Broadway and W 36 St NY:10018
+Broadway and W 60 St NY:10023
+9 Ave and W 45 St NY:10036
+Nostrand Ave and Myrtle Ave NY:11205
+Broadway and W 49 St NY:10019
+W 4 St and 7 Ave S NY:10014
+Penn Station Valet NY:10007
+2 Ave and E 58 St NY:10022
+E 47 St and Park Ave NY:10017
+E 39 St and 2 Ave NY:10016
+N 6 St and Bedford Ave NY:11211
+Dean St and 4 Ave NY:11217
+W 26 St and 8 Ave NY:10001
+W 20 St and 11 Ave NY:10011
+E 40 St and 5 Ave NY:10018
+E 37 St and Lexington Ave NY:10016
+Division St and Bowery NY:10002
+Allen St and Stanton St NY:10002
+Mott St and Prince St NY:10012
+York St and Jay St NY:11201
+Avenue D and E 12 St NY:10009
+E 4 St and 2 Ave NY:10003
+Central Park S and 6 Ave NY:10019
+Bedford Ave and Nassau Ave NY:11222
+W 38 St and 8 Ave NY:10018
+Canal St and Rutgers St NY:10002
+Bond St and Fulton St NY:11201
+PABT Valet NY:10007
+E 67 St and Park Ave NY:10065
+Old Slip and Front St NY:10005
+Cherry St NY:10002
+Broadway and Berry St NY:11249
+E 6 St and Avenue B NY:10009
+Stanton St and Mangin St NY:10002
+E 3 St and 1 Ave NY:10009
+W 13 St and 5 Ave NY:10011
+Fulton St and Broadway NY:10007
+W 41 St and 8 Ave NY:10036
+Flushing Ave and Carlton Ave NY:11205
+Hancock St and Bedford Ave NY:11216
+Stanton St and Chrystie St NY:10002
+Broadway and W 51 St NY:10019
+W 47 St and 10 Ave NY:10036
+E 23 St and 1 Ave NY:10010
+Broadway and W 41 St NY:10018
+University Pl and E 8 St NY:10003
+Washington Pl and Broadway NY:10003
+E 53 St and Lexington Ave NY:10022
+W 82 St and Central Park West NY:10024
+E 47 St and 2 Ave NY:10017
+Catherine St and Monroe St NY:10002
+Willoughby Ave and Tompkins Ave NY:11206
+W 18 St and 6 Ave NY:10011
+Willoughby St and Fleet St NY:11201
+Montague St and Clinton St NY:11201
+India St and East River NY:12853
+Avenue D and E 3 St NY:10009
+Park Ave and Marcus Garvey Blvd NY:11206
+St James Pl and Pearl St NY:10038
+9 St and 44 Rd NY:11101
+Fulton St and Utica Ave NY:11233
+Duffield St and Willoughby St NY:11201
+Hanson Pl and St Felix St NY:11217
+Broadway and W 37 St NY:10018
+Willoughby Ave and Hall St NY:11205
+University Pl and E 14 St NY:10003
+W 11 St and 6 Ave NY:10011
+West St and Chambers St NY:10282
+E 20 St and FDR Drive NY:10010
+Little West St and 1 Pl NY:10004
+1 Ave and E 62 St NY:10065
+Putnam Ave and Nostrand Ave NY:11216
+W 64 St and West End Ave NY:10023
+Atlantic Ave and Furman St NY:11201
+Cambridge Pl and Gates Ave NY:11238
+Macon St and Nostrand Ave NY:11216
+E 40 St and Madison Ave NY:10017
+Broadway and Battery Pl NY:10004
+Hanover Pl and Livingston St NY:11217
+Vesey Pl and River Terrace NY:10282
+Warren St and Church St NY:10007
+Lafayette St and E 8 St NY:10003
+FDR Drive and E 35 St NY:10016
+E 47 St and 1 Ave NY:10017
+E 56 St and 3 Ave NY:10022
+Laight St and Hudson St NY:10013
+St James Pl and Oliver St NY:10038
+W 78 St and Broadway NY:10024
+Fulton St and Washington Ave NY:11238
+Cliff St and Fulton St NY:10038
+Old Fulton St NY:10038
+Shevchenko Pl and E 7 St NY:10003
+3 Ave and Schermerhorn St NY:11217
+Monroe St and Bedford Ave NY:11216
+Washington Ave and Park Ave NY:11205
+Henry St and Poplar St NY:11201
+DeKalb Ave and Skillman St NY:11205
+Throop Ave and Myrtle Ave NY:11206
+Front St and Washington St NY:11201
+W 31 St and 7 Ave NY:10001
+Clinton Ave and Myrtle Ave NY:11205
+Carlton Ave and Flushing Ave NY:11205
+Amsterdam Ave and W 82 St NY:10024
+Peck Slip and Front St NY:10038
+E 59 St and Sutton Pl NY:10022
+E 30 St and Park Ave S NY:10016
+E 58 St and 1 Ave NY:10022
+E 11 St and 1 Ave NY:10009
+Center Blvd and Borden Ave NY:11101
+Division Ave and Marcy Ave NY:11211
+W 43 St and 6 Ave NY:10036
+Broadway and W 29 St NY:10001
+Concord St and Bridge St NY:11201
+W Houston St and Hudson St NY:10014
+Marcus Garvey Blvd and Macon St NY:11233
+W 43 St and 10 Ave NY:10036
+E 10 St and Avenue A NY:10009
+1 Ave and E 44 St NY:10017
+South St and Gouverneur Ln NY:10005
+Riverside Dr and W 72 St NY:10023
+Roebling St and N 4 St NY:11211
+Clinton St and Grand St NY:10002
+Union Ave and Jackson St NY:11211
+Hope St and Union Ave NY:11211
+E 60 St and York Ave NY:10022
+DeKalb Ave and Vanderbilt Ave NY:11205
+Willoughby Ave and Walworth St NY:11205
+10 Ave and W 28 St NY:10001
+Perry St and Bleecker St NY:10014
+W 52 St and 5 Ave NY:10022
+Watts St and Greenwich St NY:10013
+Bedford Ave and S 9 St NY:11249
+1 Ave and E 18 St NY:10003
+E 53 St and Madison Ave NY:10022
+Market St and Cherry St NY:10002
+Clermont Ave and Lafayette Ave NY:11205
+Lafayette St and Jersey St NY:10012
+Graham Ave and Conselyea St NY:11211
+Cadman Plaza West and Montague St NY:11201
+Atlantic Ave and Fort Greene Pl NY:11217
+45 Rd and 11 St NY:11101
+E.T. Bike-In Movie Valet Station  NY:10007
+Gallatin Pl and Livingston St NY:11201
+Carmine St and 6 Ave NY:10014
+Milton St and Franklin St NY:11222
+9 Ave and W 18 St NY:10011
+Fulton St and Grand Ave NY:11238
+Albany Ave and Fulton St NY:11213
+Leonard St and Boerum St NY:11206
+Greenwich St and N Moore St NY:10013
+E 48 St and 5 Ave NY:10017
+Meserole Ave and Manhattan Ave NY:11222
+5 Ave and E 78 St NY:10075
+N 12 St and Bedford Ave NY:11211
+Monroe St and Classon Ave NY:11238
+46 Ave and 5 St NY:11101
+9 Ave and W 22 St NY:10011
+Leonard St and Grand St NY:11211
+MacDougal St and Washington Sq NY:10012
+NYCBS Depot BAL - DYR NY:10007
+E 20 St and 2 Ave NY:10003
+E 13 St and Avenue A NY:10009
+E 25 St and 1 Ave NY:10010
+W 13 St and 7 Ave NY:10011
+Emerson Pl and Myrtle Ave NY:11205
+Clermont Ave and Park Ave NY:11205
+2 Ave and E 31 St NY:10016
+Allen St and E Houston St NY:10002
+South End Ave and Liberty St NY:10080
+W 13 St and 6 Ave NY:10011
+Lexington Ave and E 29 St NY:10016
+Nassau Ave and Newell St NY:11222
+Bedford Ave and S 9th St NY:11249
+Broadway and W 39 St NY:10018
+Frost St and Meeker St NY:11211
+Halsey St and Tompkins Ave NY:11216
+Lefferts Pl and Franklin Ave NY:11238
+E 72 St and Park Ave NY:10021
+S 3 St and Bedford Ave NY:11249
+Cadman Plaza W and Pierrepont St NY:11201
+W 49 St and 8 Ave NY:10019
+W 16 St and The High Line NY:12020
+St Marks Pl and 1 Ave NY:10009
+Franklin St and W Broadway NY:10013
+MacDougal St and Prince St NY:10012
+DeKalb Ave and Hudson Ave NY:11201
+Central Park West and W 72 St NY:10023
+Lewis Ave and Madison St NY:11221
+9 Ave and W 16 St NY:10011
+11 Ave and W 59 St NY:10069
+Leonard St and Church St NY:10013
+Amsterdam Ave and W 73 St NY:10023
+W 25 St and 6 Ave NY:10010
+W 42 St and Dyer Ave NY:10036
+Pitt St and Stanton St NY:10002
+Monroe St and Tompkins Ave NY:11221
+E 25 St and 2 Ave NY:10010
+Kosciuszko St and Nostrand Ave NY:11216
+E 14 St and Avenue B NY:10009
+Schermerhorn St and Court St NY:11201
+W 56 St and 10 Ave NY:10019
+Lawrence St and Willoughby St NY:11201
+Bank St and Hudson St NY:10014
+5 Ave and E 73 St NY:10021
+E 11 St and Broadway NY:10003
+South St and Whitehall St NY:10004
+E 2 St and Avenue B NY:10009
+Reade St and Broadway NY:10007
+Graham Ave and Herbert St NY:11222
+W 76 St and Columbus Ave NY:10023
+Broadway and E 14 St NY:10003
+Boerum St and Broadway NY:11206
+9 Ave and W 14 St NY:10014
+8 Ave and W 52 St NY:10019
+Bayard St and Baxter St NY:10013
+Spruce St and Nassau St NY:10038
+E 81 St and 3 Ave NY:10028
+6 Ave and Canal St NY:10013
+E 20 St and Park Ave NY:10003
+E 41 St and Madison Ave NY:10017
+India St and Manhattan Ave NY:11222
+E 32 St and Park Ave NY:10016
+John St and William St NY:10038
+8 Ave and W 31 St NY:10001
+W 20 St and 7 Ave NY:10011
+E 9 St and Avenue C NY:10009
+Stagg St and Union Ave NY:11206
+W 27 St and 7 Ave NY:10001
+Lexington Ave and Classon Ave NY:11238
+8 Ave and W 33 St NY:10001
+31 St and Thomson Ave NY:11101
+E 15 St and 3 Ave NY:10003
+E 7 St and Avenue A NY:10009
+N 11 St and Wythe Ave NY:11249
+E 75 St and 3 Ave NY:10021
+E 55 St and Lexington Ave NY:10022
+W 84 St and Broadway NY:10024
+W 37 St and 10 Ave NY:10018
+Nassau St and Navy St NY:11201
+Bushwick Ave and Powers St NY:11211
+W 29 St and 9 Ave NY:10001
+Cadman Plaza E and Tillary St NY:11201
+Broadway and E 22 St NY:10010
+W 15 St and 7 Ave NY:10011
+Railroad Ave and Kay Ave NY:11249
+Metropolitan Ave and Bedford Ave NY:11211
+Allen St and Rivington St NY:10002
+E 71 St and 2 Ave NY:10021
+Greenwich Ave and Charles St NY:10014
+E 77 St and Park Ave NY:10075
+Duane St and Greenwich St NY:10013
+Kosciuszko St and Tompkins Ave NY:11216
+W 84 St and Columbus Ave NY:10024
+Washington Park NY:12203
+Fulton St and Clermont Ave NY:11238
+W 17 St and 8 Ave NY:10011
+Christopher St and Greenwich St NY:10014
+Pike St and Monroe St NY:10002
+Hudson St and Reade St NY:10013
+Union Ave and Wallabout St NY:11206
+Grand St and Havemeyer St NY:11211
+E 56 St and Madison Ave NY:10022
+E 43 St and Vanderbilt Ave NY:10017
+Marcy Ave and MacDonough St NY:11216
+Carlton Ave and Park Ave NY:11205
+W 13 St and Hudson St NY:10014
+Nassau Ave and Russell St NY:11222
+Riverside Dr and W 72 St  NY:10023
+Washington Ave and Greene Ave NY:11238
+Washington Pl and 6 Ave NY:10014
+Leonard St and Meeker Ave NY:11211
+E 10 St and 5 Ave NY:10011
+E 80 St and 2 Ave NY:10028
+Jackson Ave and 46 Rd NY:11101
+Bank St and Washington St NY:10014
+E 85 St and 3 Ave NY:10028
+Pearl St and Hanover Square NY:10004
+W 74 St and Columbus Ave NY:10023
+Rivington St and Chrystie St NY:10002
+Washington St and Gansevoort St NY:10014
+E 48 St and Madison Ave NY:10017
+1 Ave and E 78 St NY:10075
+E 12 St and 3 Ave NY:10003
+Broadway and W 55 St NY:10019
+W 42 St and 8 Ave NY:10036
+Metropolitan Ave and Meeker Ave NY:11211
+Greenwich St and W Houston St NY:10014
+E 81 St and Park Ave NY:10028
+Pershing Square South NY:10168
+E 81 St and York Ave NY:10028
+Broad St and Bridge St NY:10004
+Rivington St and Ridge St NY:10002
+E 17 St and Broadway NY:10003
+21 St and 43 Ave NY:11101
+W 51 St and 6 Ave NY:10019
+E 77 St and 3 Ave NY:10075
+Maiden Ln and Pearl St NY:10038
+W 45 St and 6 Ave NY:10036
+Ashland Pl and Hanson Pl NY:11217
+12 Ave and W 40 St NY:10018
+E 51 St and 1 Ave NY:10022
+1 Ave and E 68 St NY:10065
+Lewis Ave and Decatur St NY:11233
+Greene Ave and Nostrand Ave NY:11216
+W 46 St and 11 Ave NY:10036
+44 Dr and Jackson Ave NY:11101
+6 Ave and W 33 St NY:10001
+Broadway and W 53 St NY:10019
+Kent Ave and N 7 St NY:11249
+Division Ave and Hooper St NY:11211
+E 55 St and 3 Ave NY:10022
+Driggs Ave and Lorimer St NY:11222
+Banker St and Meserole Ave NY:11222
+E 84 St and Park Ave NY:10028
+W 44 St and 5 Ave NY:10036
+Lafayette Ave and St James Pl NY:11205
+Tompkins Ave and Hopkins St NY:11206
+W 39 St and 9 Ave NY:10018
+Allen St and Hester St NY:10002
+Cumberland St and Lafayette Ave NY:11217
+Barrow St and Hudson St NY:10014
+E 59 St and Madison Ave NY:10022
+E 2 St and Avenue C NY:10009
+W 21 St and 6 Ave NY:10010
+Centre St and Chambers St NY:10013
+Riverside Dr and W 78 St NY:10024
+Driggs Ave and N Henry St NY:11222
